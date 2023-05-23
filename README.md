@@ -1,2 +1,5 @@
 # johan-pwsh
-Practice hub for PowerShell scripting.
+
+## Practice hub for PowerShell scripting.
+
+The first steps of an exciting journey.
