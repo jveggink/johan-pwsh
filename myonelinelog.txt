@@ -1,0 +1,7 @@
+1d92bbe Third script: pipelines
+341bf79 Second script: hashtable and customobject
+10207f6 First script: arrays vs lists
+c106efb Delete .gitignore
+e06aef8 Merge pull request #1 from jveggink/readme-edits
+b48a879 Update README.md
+e422306 Initial commit
