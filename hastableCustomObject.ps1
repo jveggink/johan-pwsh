@@ -6,6 +6,7 @@ $myHashTable=@{
     5=5
 }
 
+$myHashTable[4]
 #basic hashtable manipulation
 $myHashTable.GetType()
 $myHashTable.ContainsKey(1)
